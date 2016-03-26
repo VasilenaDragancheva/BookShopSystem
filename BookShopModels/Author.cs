@@ -16,11 +16,11 @@
 
         public string FirstName { get; set; }
 
-       
         [Required]
         public string LastName { get; set; }
 
         public int Age { get; set; }
+
         public virtual ICollection<Book> Books
         {
             get
