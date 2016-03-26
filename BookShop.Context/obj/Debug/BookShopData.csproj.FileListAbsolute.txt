@@ -1,0 +1,12 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\bin\Debug\BookShop.Context.dll.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\bin\Debug\BookShop.Context.dll
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\bin\Debug\BookShop.Context.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\bin\Debug\BookShopModels.dll
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\bin\Debug\EntityFramework.dll
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\bin\Debug\BookShopModels.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\bin\Debug\EntityFramework.xml
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\obj\Debug\BookShopData.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\obj\Debug\BookShop.Context.dll
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShop.Context\obj\Debug\BookShop.Context.pdb

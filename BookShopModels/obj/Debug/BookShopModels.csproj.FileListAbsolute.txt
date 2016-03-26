@@ -1,0 +1,5 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShopModels\bin\Debug\BookShopModels.dll
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShopModels\bin\Debug\BookShopModels.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShopModels\obj\Debug\BookShopModels.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShopModels\obj\Debug\BookShopModels.dll
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\OOP\BookShopSystem\BookShopModels\obj\Debug\BookShopModels.pdb
