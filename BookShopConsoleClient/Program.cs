@@ -8,6 +8,8 @@
     {
         public static void Main(string[] args)
         {
+            System.Threading.Thread.CurrentThread.CurrentCulture = System.Globalization.CultureInfo.InvariantCulture;
+
             var context = new BookShopContext();
 
             var count = context.Books.Count();
